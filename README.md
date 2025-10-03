@@ -3,7 +3,6 @@
 
 ### 1. Point CLI to your Desktop (to view Homebrew installation directory)
 <img src="./images/desktop_homebrew_install-main.png" alt="Lesson Confirmation" width="90%">
-<br>
 
 **Note: My Homewbrew is installed in my user home directory, not desktop. This screenshot shows the directory that contains the scripts_homebrew-main folder.**
 
